@@ -12,7 +12,7 @@ const Score = ({ score,chance }) => {
         <h1>{score}</h1>
         <div style={{ fontWeight: 'bold' }}>Total chance:</div>
         <h1>{chance}</h1>
-      </div>git
+      </div>
 
     )
     };
